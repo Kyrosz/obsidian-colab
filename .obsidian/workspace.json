@@ -11,12 +11,8 @@
             "id": "1142497ae8e8a06b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prueba definitiva 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prueba definitiva 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prueba definitiva 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "prueba definitiva 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,10 @@
   },
   "active": "1142497ae8e8a06b",
   "lastOpenFiles": [
+    "prueba definitiva 1.md",
     "nueva nota.md",
     "Nota Prueba.md",
     "Desplazamiento.md",
-    "prueba definitiva 1.md",
     "README.md",
     "DEFINITIVA 3 y ojala final.md",
     "DEFINITIVA 2.md",
