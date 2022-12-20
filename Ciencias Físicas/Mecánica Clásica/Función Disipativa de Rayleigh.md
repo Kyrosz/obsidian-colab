@@ -1,5 +1,6 @@
 
 Para una [[Fuerza de Amortiguamiento]] proporcional a la velocidad de compresión.
+
 $$ 
 	F = \frac{1}{2} c_r \dot{\Delta}_r^2 
 $$
