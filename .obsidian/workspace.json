@@ -14,33 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "bb5e4baf380fa1f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nueva nota.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccd1d5b1a6b39f1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prueba definitiva 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prueba definitiva 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prueba definitiva 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "prueba definitiva 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,9 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccd1d5b1a6b39f1b",
+  "active": "e2a3d9a6b36bde53",
   "lastOpenFiles": [
     "nueva nota.md",
+    "prueba definitiva 1.md",
     "README.md",
     "Untitled.md"
   ]
