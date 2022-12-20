@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "cdd40539c13a106c",
+        "id": "a1e77b2857264443",
         "type": "tabs",
         "children": [
           {
-            "id": "1da357fda27d0ff0",
+            "id": "088ff651666ed77b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -137,7 +137,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "1da357fda27d0ff0",
+  "active": "088ff651666ed77b",
   "lastOpenFiles": [
     "DEFINITIVA 3 y ojala final.md",
     "Desplazamiento.md",
