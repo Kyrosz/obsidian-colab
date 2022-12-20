@@ -1,0 +1,6 @@
+
+- Cráneo
+- Húmero
+- Fémur
+- Escápulas
+- 
