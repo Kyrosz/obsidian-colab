@@ -1,6 +1,8 @@
 
 Para una [[Fuerza de Amortiguamiento]] proporcional a la velocidad de compresión.
-$$ F = \frac{1}{2} c_r \dot{\Delta}_r^2 $$
+$$ 
+	F = \frac{1}{2} c_r \dot{\Delta}_r^2 
+$$
 - $c_r$ : [[Coeficiente de Amortiguamiento]] del r-ésimo resorte.
 - $\dot{\Delta}_r$ : Velocidad con que se comprime el r-ésimo amortiguador.
 
