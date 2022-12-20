@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "028eb68a4c8293f6",
+        "id": "695c5260f2fd96fa",
         "type": "tabs",
         "children": [
           {
-            "id": "04eb4dcedf895478",
+            "id": "e2a3d9a6b36bde53",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,15 +16,31 @@
             }
           },
           {
-            "id": "8bb0237884d03866",
+            "id": "bb5e4baf380fa1f3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "nueva nota.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccd1d5b1a6b39f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prueba definitiva 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "prueba definitiva 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "prueba definitiva 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,30 +145,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "prueba definitiva 1.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "canvas:Create new canvas": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8bb0237884d03866",
+  "active": "ccd1d5b1a6b39f1b",
   "lastOpenFiles": [
-    "Nota Prueba.md",
-    "Electrón.md",
-    "Ciencias Físicas/Vibraciones Mecánicas/Impulso.md",
+    "nueva nota.md",
     "README.md",
     "Untitled.md"
   ]
