@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "path:\"Biología Humana\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 2303
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.28165328146789625,
+  "scale": 0.39487308372050933,
   "close": false
 }
