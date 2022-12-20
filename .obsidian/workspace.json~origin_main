@@ -30,17 +30,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "71b3435e38574fd3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,25 +146,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "canvas:Create new canvas": false
     }
   },
-  "active": "71b3435e38574fd3",
+  "active": "fe450f5cea7d5b86",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "prueba definitiva 1.md",
-    "Untitled.md",
-    "README.md",
     "PRUEBADEFINITIVADEFENITIVA.md",
     "Matemática/Cálculo/Teorema del Sandwich.md",
     "Desplazamiento.md",
     "Ciencias Físicas/Mecánica Clásica/Método de Lagrange.md",
     "Ciencias Físicas/Mecánica Cuántica/Braket.md",
-    "Matemática/Cálculo/Ecuaciones Diferenciales Ordinarias (EDOs).md"
+    "Matemática/Cálculo/Ecuaciones Diferenciales Ordinarias (EDOs).md",
+    "prueba definitiva 1.md",
+    "Nota Prueba.md",
+    "Electrón.md",
+    "Ciencias Físicas/Vibraciones Mecánicas/Impulso.md"
   ]
 }
