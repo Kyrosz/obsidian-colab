@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "695c5260f2fd96fa",
+        "id": "36f61451aa97ba81",
         "type": "tabs",
         "children": [
           {
-            "id": "e2a3d9a6b36bde53",
+            "id": "62c2079007bebb08",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2a3d9a6b36bde53",
+  "active": "62c2079007bebb08",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "nueva nota.md",
