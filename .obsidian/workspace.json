@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "028eb68a4c8293f6",
+        "id": "cdd40539c13a106c",
         "type": "tabs",
         "children": [
           {
-            "id": "04eb4dcedf895478",
+            "id": "1da357fda27d0ff0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8bb0237884d03866",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "fe450f5cea7d5b86",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "71b3435e38574fd3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3498666b9251a5a4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Desplazamiento.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desplazamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desplazamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desplazamiento.md"
+              }
             }
           }
         ]
@@ -170,17 +145,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "3498666b9251a5a4",
+  "active": "1da357fda27d0ff0",
   "lastOpenFiles": [
     "DEFINITIVA 2.md",
+    "Nota Prueba.md",
+    "nueva nota.md",
     "prueba definitiva 1.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "README.md",
     "PRUEBADEFINITIVADEFENITIVA.md",
     "Matemática/Cálculo/Teorema del Sandwich.md",
-    "Desplazamiento.md",
-    "Ciencias Físicas/Mecánica Clásica/Método de Lagrange.md",
-    "Ciencias Físicas/Mecánica Cuántica/Braket.md"
+    "Desplazamiento.md"
   ]
 }
