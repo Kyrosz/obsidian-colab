@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Ma",
+      "query": "path:Matemática",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 4607
       }
     }
   ],
@@ -26,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.2816532814678945,
-  "close": false
+  "close": true
 }
