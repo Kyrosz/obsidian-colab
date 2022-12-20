@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Cálculo/Derivada.md",
+                "file": "Matemática/Cálculo/Tabla de Integrales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Cálculo/Derivada.md",
+                "file": "Matemática/Cálculo/Tabla de Integrales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática/Cálculo/Derivada.md",
+                "file": "Matemática/Cálculo/Tabla de Integrales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática/Cálculo/Derivada.md"
+                "file": "Matemática/Cálculo/Tabla de Integrales.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "1142497ae8e8a06b",
   "lastOpenFiles": [
+    "Matemática/Cálculo/Teorema del Sandwich.md",
+    "Matemática/Cálculo/Tabla de Integrales.md",
     "Matemática/Cálculo/Derivada.md",
     "prueba definitiva 1.md",
     "nueva nota.md",
@@ -154,8 +156,6 @@
     "Desplazamiento.md",
     "README.md",
     "DEFINITIVA 3 y ojala final.md",
-    "DEFINITIVA 2.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled.md"
+    "DEFINITIVA 2.md"
   ]
 }
