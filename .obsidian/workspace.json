@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Cálculo/Teorema del Sandwich.md",
+                "file": "Matemática/Cálculo/Serie de Taylor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Cálculo/Teorema del Sandwich.md",
+                "file": "Matemática/Cálculo/Serie de Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática/Cálculo/Teorema del Sandwich.md",
+                "file": "Matemática/Cálculo/Serie de Taylor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática/Cálculo/Teorema del Sandwich.md"
+                "file": "Matemática/Cálculo/Serie de Taylor.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "1142497ae8e8a06b",
   "lastOpenFiles": [
+    "Matemática/Cálculo/Límite.md",
+    "Matemática/Cálculo/Teorema del Sandwich.md",
     "Matemática/Cálculo/Tabla de Derivadas.md",
     "Matemática/Cálculo/Tabla de Integrales.md",
-    "Matemática/Cálculo/Teorema del Sandwich.md",
     "Matemática/Cálculo/Derivada.md",
     "prueba definitiva 1.md",
     "nueva nota.md",
     "Nota Prueba.md",
     "Desplazamiento.md",
-    "README.md",
-    "DEFINITIVA 3 y ojala final.md"
+    "README.md"
   ]
 }
