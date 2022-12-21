@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Python/Funciones en Python.md",
+                "file": "Matemática/Cálculo/Serie de Taylor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación/Python/Funciones en Python.md",
+                "file": "Matemática/Cálculo/Serie de Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación/Python/Funciones en Python.md",
+                "file": "Matemática/Cálculo/Serie de Taylor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación/Python/Funciones en Python.md"
+                "file": "Matemática/Cálculo/Serie de Taylor.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "d55bbfbc7ba126b0",
   "lastOpenFiles": [
+    "Programación/Python/Funciones en Python.md",
     "Matemática/Cálculo/Serie de Taylor.md",
     "Matemática/Cálculo/Tabla de Derivadas.md",
     "Matemática/Cálculo/Tabla de Integrales.md",
@@ -155,7 +156,6 @@
     "Ingeniería/Elementos de Máquinas/Vida S-N.md",
     "Matemática/Cálculo/Laplaciano.md",
     "Matemática/Cálculo/Límite.md",
-    "Matemática/Cálculo/Matriz Jacobiana.md",
-    "Matemática/Cálculo/Notación Indicial.md"
+    "Matemática/Cálculo/Matriz Jacobiana.md"
   ]
 }
