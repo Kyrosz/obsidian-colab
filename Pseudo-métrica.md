@@ -1,0 +1,1 @@
+Una pseudo-métrica sobre un conjunto no vació $E$ es una función $d: E \times E \rightarrow [0,\infty)$ que cumple las siguientes propiedades

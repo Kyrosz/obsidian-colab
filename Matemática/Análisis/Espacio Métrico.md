@@ -13,3 +13,4 @@ Supongamos que $d(x,y)=0$ pero $x\neq y$ . Esto significa que existe algun subdi
 $d(x,y)=0 \Rightarrow   \sqrt{\sum_{j=1}^{n}\left | x_j-y_j \right |^{2}}=0$    
 $\Rightarrow \sum_{j=1}^{n}\left | x_j - y_j \right |^{2} =0$ 
 
+terminar...
