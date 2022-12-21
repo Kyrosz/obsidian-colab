@@ -1,0 +1,1 @@
+Un espacio pseudo-métrico es un par ordenado 
