@@ -89,14 +89,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distancia de un punto a un conjunto.md",
+                "file": "Matemática/Análisis/Distancia de un punto a un conjunto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "851eadc40c41f9f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distancia entre conjuntos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distancia de un punto a un conjunto.md",
+                "file": "Distancia entre conjuntos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distancia de un punto a un conjunto.md",
+                "file": "Distancia entre conjuntos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distancia de un punto a un conjunto.md"
+                "file": "Distancia entre conjuntos.md"
               }
             }
           }
@@ -222,11 +234,11 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "c4d1c83393360bab",
+  "active": "851eadc40c41f9f3",
   "lastOpenFiles": [
+    "Matemática/Análisis/Distancia de un punto a un conjunto.md",
     "Matemática/Análisis/Pseudo-métrica.md",
     "Subconjunto no vacío.md",
-    "Distancia de un punto a un conjunto.md",
     "Matemática/Análisis/Espacio Pseudo-métrico.md",
     "Matemática/Análisis/Metrica (Distancia).md",
     "Matemática/Análisis/Espacio Métrico.md",
