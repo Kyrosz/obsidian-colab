@@ -1,0 +1,1 @@
+Una norma sobre un [[Espacio Vectorial]] real $V$ es una función 

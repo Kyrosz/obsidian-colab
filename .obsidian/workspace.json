@@ -125,14 +125,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isometría.md",
+                "file": "Matemática/Análisis/Isometría.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "321b8498c3c16d5a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -198,7 +206,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isometría.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +222,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Isometría.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,9 +243,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Isometría.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -258,8 +262,10 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "439d51b2f22de4b6",
+  "active": "321b8498c3c16d5a",
   "lastOpenFiles": [
+    "Norma.md",
+    "Matemática/Análisis/Isometría.md",
     "Matemática/Análisis/Inmersion Isométrica.md",
     "Distancia entre conjuntos.md",
     "Matemática/Análisis/Distancia de un punto a un conjunto.md",
@@ -267,8 +273,6 @@
     "Subconjunto no vacío.md",
     "Matemática/Análisis/Espacio Pseudo-métrico.md",
     "Matemática/Análisis/Metrica (Distancia).md",
-    "Matemática/Análisis/Espacio Métrico.md",
-    "conflict-files-obsidian-git.md",
-    "Matemática/Cálculo/Derivada Material.md"
+    "Matemática/Análisis/Espacio Métrico.md"
   ]
 }
