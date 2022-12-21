@@ -19,7 +19,7 @@
             "id": "dab4f5369b1bfd91",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 209.5
   },
   "right": {
     "id": "05c80e27ff736322",
