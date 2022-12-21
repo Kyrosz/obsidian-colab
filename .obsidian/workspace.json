@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distancia entre conjuntos.md",
+                "file": "Matemática/Análisis/Distancia entre conjuntos.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,8 +135,12 @@
             "id": "321b8498c3c16d5a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Norma.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -206,6 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Norma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Norma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +249,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Norma.md"
+              }
             }
           }
         ]
@@ -264,15 +272,15 @@
   },
   "active": "321b8498c3c16d5a",
   "lastOpenFiles": [
+    "README.md",
+    "Subconjunto no vacío.md",
+    "Matemática/Análisis/Pseudo-métrica.md",
+    "Matemática/Análisis/Espacio Pseudo-métrico.md",
+    "Matemática/Análisis/Distancia entre conjuntos.md",
     "Norma.md",
     "Matemática/Análisis/Isometría.md",
     "Matemática/Análisis/Inmersion Isométrica.md",
-    "Distancia entre conjuntos.md",
     "Matemática/Análisis/Distancia de un punto a un conjunto.md",
-    "Matemática/Análisis/Pseudo-métrica.md",
-    "Subconjunto no vacío.md",
-    "Matemática/Análisis/Espacio Pseudo-métrico.md",
-    "Matemática/Análisis/Metrica (Distancia).md",
-    "Matemática/Análisis/Espacio Métrico.md"
+    "Matemática/Análisis/Metrica (Distancia).md"
   ]
 }
