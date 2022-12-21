@@ -8,4 +8,6 @@ Demostración:
 
 (l) Si $x=y$, la igualdad $d(x,y)=0$ es directa. Por otro lado, si $d(x,y)=0$, $x=y$ se saca por contradicción.
 
-Supongamos que $d(x,y)=0$ pero $x\neq y$ . Esto significa que existe algun subdindice $i \in {1,...,n}$
+Supongamos que $d(x,y)=0$ pero $x\neq y$ . Esto significa que existe algun subdindice $i \in \left \{ 1,...,n \right \}$ tq $x_i \neq y_i$. Entonces
+
+$d(x,y)=0 
