@@ -11,7 +11,7 @@
             "id": "c2328ea4b5248180",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "c2328ea4b5248180",
   "lastOpenFiles": [
-    "Matemática/Análisis/Metrica (Distancia).md",
-    "Matemática/Análisis/Espacio Métrico.md",
-    "Matemática/Análisis/Pseudo-métrica.md",
-    "Matemática/Análisis/Espacio Pseudo-métrico.md",
+    "Matemática/Cálculo/Sistema de Referencia No Inercial.md",
+    "Matemática/Cálculo/Serie de Taylor.md",
+    "Matemática/Cálculo/Producto Interno.md",
+    "Matemática/Cálculo/Derivada.md",
+    "Matemática/Cálculo/Cubo Diferencial.md",
+    "Matemática/Análisis/Isometría.md",
     "Matemática/Análisis/Distancia de un punto a un conjunto.md",
     "Matemática/Análisis/Distancia entre conjuntos.md",
-    "Matemática/Análisis/Inmersion Isométrica.md",
-    "Matemática/Análisis/Isometría.md",
-    "Matemática/Análisis/Norma.md",
-    "Matemática/Álgebra/Coeficiente Binomial.md"
+    "Matemática/Análisis/Espacio Métrico.md",
+    "Matemática/Análisis/Espacio Pseudo-métrico.md"
   ]
 }
