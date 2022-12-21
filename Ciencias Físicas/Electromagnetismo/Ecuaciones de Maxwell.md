@@ -1,5 +1,5 @@
 
-Las ecuaciones de Maxwell son la integración de las cuatro [[Leyes Fundamentales]] del [[Electromagnetismo]] en un *set* de ecuaciones.
+Las ecuaciones de Maxwell son la integración de cuatro [[Leyes Fundamentales de la Física]] aplicadas al [[Electromagnetismo]] en un *set* de ecuaciones.
 
 ## Forma Diferencial
 
