@@ -1,1 +1,0 @@
-Consideremos los espacios métricos $(E,d)$ y $(F,d')$ ([[Espacio Métrico]]) y una función $f : E \rightarrow F$. Se dice que esta funcion es una inmsersión isométrica si se veri
