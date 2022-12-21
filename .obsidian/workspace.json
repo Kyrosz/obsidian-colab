@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería/Elementos de Máquinas/Vida S-N.md",
+                "file": "Ingeniería/Elementos de Máquinas/Diagrama S-N.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería/Elementos de Máquinas/Vida S-N.md",
+                "file": "Ingeniería/Elementos de Máquinas/Diagrama S-N.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería/Elementos de Máquinas/Vida S-N.md",
+                "file": "Ingeniería/Elementos de Máquinas/Diagrama S-N.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería/Elementos de Máquinas/Vida S-N.md"
+                "file": "Ingeniería/Elementos de Máquinas/Diagrama S-N.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "lastOpenFiles": [
     "DEFINITIVA 3 y ojala final.md",
     "Matemática/Cálculo/Serie de Taylor.md",
-    "Ingeniería/Elementos de Máquinas/Vida S-N.md",
+    "Ingeniería/Elementos de Máquinas/Diagrama S-N.md",
     "Desplazamiento.md",
     "prueba definitiva 1.md",
     "conflict-files-obsidian-git.md",
