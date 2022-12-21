@@ -1,0 +1,1 @@
+Una distancia sobre un conjunto no vacío $E$ es una función $ $
