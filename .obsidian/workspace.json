@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Análisis/Distancia.md",
+                "file": "Matemática/Análisis/Metrica (Distancia).md",
                 "mode": "source",
                 "source": false
               }
@@ -200,9 +200,9 @@
   },
   "active": "c1a6bcdab4832e6d",
   "lastOpenFiles": [
-    "Matemática/Análisis/Distancia.md",
     "Matemática/Análisis/Espacio Métrico.md",
     "Matemática/Análisis/Pseudo-métrica.md",
+    "Matemática/Análisis/Metrica (Distancia).md",
     "conflict-files-obsidian-git.md",
     "Matemática/Cálculo/Derivada Material.md",
     "Matemática/Cálculo/Decaimiento Exponencial.md",
