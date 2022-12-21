@@ -11,12 +11,8 @@
             "id": "11e861c8d71036cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,15 +139,15 @@
   },
   "active": "11e861c8d71036cb",
   "lastOpenFiles": [
+    "Ingeniería/Montaje Industrial/Salfa Montajes.md",
+    "Ingeniería/Montaje Industrial/Empresas de Montaje Industrial en Chile.md",
+    "README.md",
     "Matemática/Geometría/Relaciones Trigonométricas.md",
     "Ciencias de los Materiales/Materiales/Acero Inoxidable.md",
     "Ciencias de los Materiales/Materiales/Acero al Carbono.md",
     "Ciencias de los Materiales/Propiedades/Maleabilidad.md",
     "Ciencias de los Materiales/Propiedades/Propiedades de los Materiales.md",
     "Ciencias de los Materiales/Propiedades/Lustre.md",
-    "Ciencias de los Materiales/Propiedades/Dureza.md",
-    "Ciencias de los Materiales/Propiedades/Ductilidad.md",
-    "Ciencias de los Materiales/Propiedades/Conductividad Eléctrica.md",
-    "Ciencias de los Materiales/Propiedades/Conductividad Térmica.md"
+    "Ciencias de los Materiales/Propiedades/Dureza.md"
   ]
 }
