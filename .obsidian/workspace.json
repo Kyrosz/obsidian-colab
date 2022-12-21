@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería/Elementos de Máquinas/Vida S-N.md",
+                "file": "Matemática/Cálculo/Serie de Taylor.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería/Elementos de Máquinas/Vida S-N.md",
+                "file": "Matemática/Cálculo/Serie de Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería/Elementos de Máquinas/Vida S-N.md",
+                "file": "Matemática/Cálculo/Serie de Taylor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería/Elementos de Máquinas/Vida S-N.md"
+                "file": "Matemática/Cálculo/Serie de Taylor.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "1f528454cc8ebcb9",
   "lastOpenFiles": [
+    "Ingeniería/Elementos de Máquinas/Vida S-N.md",
     "DEFINITIVA 3 y ojala final.md",
     "Desplazamiento.md",
     "prueba definitiva 1.md",
@@ -168,7 +169,6 @@
     "README.md",
     "PRUEBADEFINITIVADEFENITIVA.md",
     "Matemática/Cálculo/Teorema del Sandwich.md",
-    "Ciencias Físicas/Mecánica Clásica/Método de Lagrange.md",
-    "Ciencias Físicas/Mecánica Cuántica/Braket.md"
+    "Ciencias Físicas/Mecánica Clásica/Método de Lagrange.md"
   ]
 }
