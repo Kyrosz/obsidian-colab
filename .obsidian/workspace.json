@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Cálculo/Serie de Taylor.md",
+                "file": "Programación/Python/Funciones en Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Cálculo/Serie de Taylor.md",
+                "file": "Programación/Python/Funciones en Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática/Cálculo/Serie de Taylor.md",
+                "file": "Programación/Python/Funciones en Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática/Cálculo/Serie de Taylor.md"
+                "file": "Programación/Python/Funciones en Python.md"
               }
             }
           }
