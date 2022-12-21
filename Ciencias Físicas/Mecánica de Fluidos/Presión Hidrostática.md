@@ -33,7 +33,7 @@ Analizando un [[Cubo Diferencial]] en el caso de coordenadas cartesianas.
 
 Primero se analiza la **función escalar de la presión**, $p=p(x,y,z)$, en cada cara del cubo:
 ![[fig-cubo-diferencial.png]] ![[fig-cubo-diferencial-presion.png]]
-Se asume conocida la demostración de que **la presión hidrostática en un punto no depende de la dirección desde la cual se trace una superficie** ([[Sentido de Aplicación de la Presión]]).
+Se asume conocida la demostración de que **la presión hidrostática en un punto no depende de la dirección desde la cual se trace una superficie** ([[Sentido de Aplicación de la Presión Hidrostática]]).
 
 Al tratarse de un espacio diferencial, el cambio de la presión respecto a cada dirección puede **aproximarse con una expansión en [[Serie de Taylor]] de primer orden**, ya que los términos de mayor orden son **despreciables**.
 
