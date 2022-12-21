@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pseudo-métrica.md",
+                "file": "Matemática/Análisis/Pseudo-métrica.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pseudo-métrica.md",
+                "file": "Matemática/Análisis/Pseudo-métrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pseudo-métrica.md",
+                "file": "Matemática/Análisis/Pseudo-métrica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pseudo-métrica.md"
+                "file": "Matemática/Análisis/Pseudo-métrica.md"
               }
             }
           }
@@ -200,15 +200,15 @@
   },
   "active": "c1a6bcdab4832e6d",
   "lastOpenFiles": [
-    "Matemática/Análisis/Espacio Métrico.md",
-    "conflict-files-obsidian-git.md",
     "Matemática/Análisis/Distancia.md",
+    "Matemática/Análisis/Espacio Métrico.md",
+    "Matemática/Análisis/Pseudo-métrica.md",
+    "conflict-files-obsidian-git.md",
     "Matemática/Cálculo/Derivada Material.md",
     "Matemática/Cálculo/Decaimiento Exponencial.md",
     "Matemática/Cálculo/Coordenadas Cartesianas.md",
     "Matemática/Cálculo/Análisis Integral.md",
     "Matemática/Cálculo/Coordenadas Cilíndricas.md",
-    "Matemática/Álgebra/Binomio de Newton.md",
-    "Matemática/Cálculo/Divergencia.md"
+    "Matemática/Álgebra/Binomio de Newton.md"
   ]
 }
