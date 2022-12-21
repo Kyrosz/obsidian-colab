@@ -6,4 +6,6 @@ $E:\mathbb{R}^{n}$, $d(x,y):=\sqrt{\sum_{j=1}^{n}\left | x_j-y_j \right |^{2}}$ 
 
 Demostración:
 
-(l) Si $x=y$, la igualdad $d(x,y)=0$ es directa. Por otro lado, si $d(x,y)=0$, $x=y$ se saca por contradicción : 
+(l) Si $x=y$, la igualdad $d(x,y)=0$ es directa. Por otro lado, si $d(x,y)=0$, $x=y$ se saca por contradicción.
+
+Supongamos que $d(x,y)=0$ pero $x\neq y$ . Esto significa que existe algun subdindice $i \in {1,...,n}$
