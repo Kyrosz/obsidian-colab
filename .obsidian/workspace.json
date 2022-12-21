@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5c3c62543e3fbdeb",
+        "id": "17b446a5417fabd5",
         "type": "tabs",
         "children": [
           {
-            "id": "b74e6a7429a229f5",
+            "id": "11e861c8d71036cb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -137,7 +145,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b74e6a7429a229f5",
+  "active": "11e861c8d71036cb",
   "lastOpenFiles": [
     "Matemática/Geometría/Relaciones Trigonométricas.md",
     "Ciencias de los Materiales/Materiales/Acero Inoxidable.md",
