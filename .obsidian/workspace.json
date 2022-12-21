@@ -11,12 +11,8 @@
             "id": "c2328ea4b5248180",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matemática/Análisis/Metrica (Distancia).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Análisis/Metrica (Distancia).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática/Análisis/Metrica (Distancia).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matemática/Análisis/Metrica (Distancia).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,6 +139,8 @@
   },
   "active": "c2328ea4b5248180",
   "lastOpenFiles": [
+    "Matemática/Análisis/Espacio Métrico.md",
+    "Matemática/Análisis/Metrica (Distancia).md",
     "Matemática/Análisis/Isometría.md",
     "Matemática/Análisis/Inmersion Isométrica.md",
     "Matemática/Análisis/Espacio Pseudo-métrico.md",
@@ -154,8 +148,6 @@
     "Matemática/Cálculo/Sistema de Referencia No Inercial.md",
     "Matemática/Cálculo/Serie de Taylor.md",
     "Matemática/Cálculo/Producto Interno.md",
-    "Matemática/Cálculo/Derivada.md",
-    "Matemática/Cálculo/Cubo Diferencial.md",
-    "Matemática/Análisis/Distancia entre conjuntos.md"
+    "Matemática/Cálculo/Derivada.md"
   ]
 }
