@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ad8933960f75611",
+            "id": "a31ce0966fbf76e2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0.Figuras/fig-cubo-diferencial-presion.png"
+                "file": "Ingeniería/Montaje Industrial/Empresas de Montaje Industrial en Chile.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "esfuerzo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Figuras/fig-cubo-diferencial-presion.png",
+                "file": "Ingeniería/Montaje Industrial/Empresas de Montaje Industrial en Chile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Figuras/fig-cubo-diferencial-presion.png",
+                "file": "Ingeniería/Montaje Industrial/Empresas de Montaje Industrial en Chile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Figuras/fig-cubo-diferencial-presion.png"
+                "file": "Ingeniería/Montaje Industrial/Empresas de Montaje Industrial en Chile.md"
               }
             }
           }
@@ -143,17 +145,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "7ad8933960f75611",
+  "active": "a31ce0966fbf76e2",
   "lastOpenFiles": [
+    "0.Figuras/fig-cubo-diferencial-presion.png",
+    "Ingeniería/Materiales/Tipos de Esfuerzo.md",
+    "Ingeniería/Materiales/Propiedades de los Materiales.md",
+    "Ingeniería/Montaje Industrial/Empresas de Montaje Industrial en Chile.md",
     "0.Figuras/fig-cubo-diferencial.png",
-    "Untitled.md",
     "nueva nota.md",
     "README.md",
     "prueba definitiva 1.md",
     "Nota Prueba.md",
-    "Desplazamiento.md",
-    "DEFINITIVA 3 y ojala final.md",
-    "Matemática/Cálculo/Teorema del Sandwich.md",
-    "Matemática/Cálculo/Derivada.md"
+    "Desplazamiento.md"
   ]
 }
