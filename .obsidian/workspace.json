@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a8601a05e6a7526a",
+        "id": "a01c2ac1d3924fd1",
         "type": "tabs",
         "children": [
           {
-            "id": "7c69f9e39398a6d4",
+            "id": "d55bbfbc7ba126b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6fb3c382a9a0f7b0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matemática/Cálculo/Serie de Taylor.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matemática/Cálculo/Serie de Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matemática/Cálculo/Serie de Taylor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matemática/Cálculo/Serie de Taylor.md"
+              }
             }
           }
         ]
@@ -146,17 +145,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e38e51160538a62c",
+  "active": "d55bbfbc7ba126b0",
   "lastOpenFiles": [
     "Matemática/Cálculo/Serie de Taylor.md",
-    "Ingeniería/Elementos de Máquinas/Vida S-N.md",
+    "Matemática/Cálculo/Tabla de Derivadas.md",
+    "Matemática/Cálculo/Tabla de Integrales.md",
+    "Matemática/Cálculo/Teorema del Sandwich.md",
     "conflict-files-obsidian-git.md",
+    "Ingeniería/Elementos de Máquinas/Vida S-N.md",
     "Matemática/Cálculo/Laplaciano.md",
     "Matemática/Cálculo/Límite.md",
     "Matemática/Cálculo/Matriz Jacobiana.md",
-    "Matemática/Cálculo/Notación Indicial.md",
-    "Matemática/Cálculo/Número e.md",
-    "Matemática/Cálculo/Operador Nabla.md",
-    "Matemática/Cálculo/Regla de la Cadena.md"
+    "Matemática/Cálculo/Notación Indicial.md"
   ]
 }
