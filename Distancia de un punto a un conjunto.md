@@ -1,0 +1,1 @@
+Para la siguiente definicion tenemos que considerar un [[Espacio Métrico]] y un 
