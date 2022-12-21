@@ -10,6 +10,5 @@ Demostración:
 
 Supongamos que $d(x,y)=0$ pero $x\neq y$ . Esto significa que existe algun subdindice $i \in \left \{ 1,...,n \right \}$ tq $x_i \neq y_i$. Entonces
 
-$d(x,y)=0 \Rightarrow   \sqrt{\sum_{j=1}^{n}\left | x_j-y_j \right |^{2}}=0$  
-				$ \Righarrow  
-			
+$d(x,y)=0 \Rightarrow   \sqrt{\sum_{j=1}^{n}\left | x_j-y_j \right |^{2}}=0$    
+$
