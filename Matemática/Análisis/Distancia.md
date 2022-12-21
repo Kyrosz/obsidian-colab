@@ -2,4 +2,5 @@ Una distancia sobre un conjunto no vacío $E$ es una función $d: E\times E \rig
 
 (l) $d(x,y)=0$ si y sólo si $x=y$ 
 (ll) $d(x,y)=d(y,x)$ para todo par $x,y$ $\in$ $E$ 
-(lll) $d(x,z) \leq  d(x,y)+
+(lll) $d(x,z) \leq  d(x,y)+d(y,z)$ para todo trío $x,y,z$ $\in$ $E$ 
+
