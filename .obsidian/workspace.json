@@ -39,8 +39,12 @@
             "id": "0d6d32475ed7168c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matemática/Análisis/Espacio Métrico.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matemática/Análisis/Espacio Métrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matemática/Análisis/Espacio Métrico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matemática/Análisis/Espacio Métrico.md"
+              }
             }
           }
         ]
