@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Cálculo/Coordenadas Cartesianas.md",
+                "file": "Matemática/Cálculo/Derivada Material.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Cálculo/Coordenadas Cartesianas.md",
+                "file": "Matemática/Cálculo/Derivada Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática/Cálculo/Coordenadas Cartesianas.md",
+                "file": "Matemática/Cálculo/Derivada Material.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática/Cálculo/Coordenadas Cartesianas.md"
+                "file": "Matemática/Cálculo/Derivada Material.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "e26af1ed7da48e96",
   "lastOpenFiles": [
+    "Matemática/Cálculo/Derivada.md",
+    "Matemática/Cálculo/Decaimiento Exponencial.md",
+    "Matemática/Cálculo/Cubo Diferencial.md",
+    "Matemática/Cálculo/Coordenadas Cilíndricas.md",
+    "Matemática/Cálculo/Coordenadas Cartesianas.md",
     "Matemática/Cálculo/Análisis Integral.md",
     "Matemática/Cálculo/Análisis Diferencial.md",
     "Matemática/Análisis/Pseudo-métrica.md",
     "Matemática/Análisis/Norma.md",
-    "Matemática/Análisis/Métrica (Distancia).md",
-    "Matemática/Análisis/Isometría.md",
-    "Matemática/Análisis/Inmersión Isométrica.md",
-    "Matemática/Análisis/Espacio Vectorial Real Normado.md",
-    "Matemática/Análisis/Espacio Pseudo-métrico.md",
-    "Matemática/Análisis/Espacio Métrico.md"
+    "Matemática/Análisis/Métrica (Distancia).md"
   ]
 }

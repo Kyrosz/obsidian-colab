@@ -1,8 +1,10 @@
 
-La derivada material es una definición utilizada para referirse a su forma descompuesta cuando se aplica a una función (escalar o vectorial) que depende del espacio y del tiempo. Se escribe con los diferenciales en mayúscula:
+La derivada material es una definición utilizada para referirse al caso en que **la función derivada** (ya sea escalar o vectorial) **depende del espacio y del tiempo**. Para reconocerla, se escriben los diferenciales en mayúscula.
 
-$$ \frac{D(N)}{Dt} = \frac{d (N)}{d t} = \frac{\partial (N)}{\partial t} + \left( \vec{v} \cdot \nabla \right) \cdot (N) $$
-Donde $N = N(x_1,x_2,x_3,t)$ una función continua.
+$$
+	\frac{D(N)}{Dt} = \frac{d (N)}{d t} = \frac{\partial (N)}{\partial t} + \left( \vec{v} \cdot \nabla \right) \cdot (N)
+$$
+Donde $N = N(x_1,x_2,x_3,t)$ es una función continua y diferenciable en todo el espacio donde vive el medio.
 
 **Desarrollo en [[Coordenadas Cartesianas]]:**
 Aplicando derivación temporal a $N(x,y,z,t)$ y descomponiendo por [[Regla de la Cadena]]: 
