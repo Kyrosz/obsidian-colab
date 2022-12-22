@@ -13,8 +13,8 @@ $$
 	\frac{d y}{d x} = 0
 $$
 
-Integrando respecto a $x$:
+Integrando respecto a $x$ . La [[Integral]] indefinida de cero es una constante:
 
 $$
-	\int_{}^{} {\frac{dy}{dx}} dx = \int_{}^{} {(0)} dx
+	 y(x) = C \qquad\blacksquare
 $$
