@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciencias Físicas/Mecánica Clásica/Fuerza.md",
+                "file": "Ciencias Físicas/Física Moderna/Braket.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciencias Físicas/Mecánica Clásica/Fuerza.md",
+                "file": "Ciencias Físicas/Física Moderna/Braket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciencias Físicas/Mecánica Clásica/Fuerza.md",
+                "file": "Ciencias Físicas/Física Moderna/Braket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciencias Físicas/Mecánica Clásica/Fuerza.md"
+                "file": "Ciencias Físicas/Física Moderna/Braket.md"
               }
             }
           }
@@ -145,17 +145,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e26af1ed7da48e96",
+  "active": "e38e51160538a62c",
   "lastOpenFiles": [
+    "Subconjunto no vacío.md",
+    "Matemática/Teoría de la Medida.md",
+    "Ciencias Físicas/Física Moderna/Braket.md",
+    "Ciencias Físicas/Mecánica Clásica/Fuerza.md",
     "Ciencias Físicas/Mecánica Clásica/Fuerza Gravitacional.md",
     "Física/Fuerzas Fundamentales.md",
     "Ciencias Físicas/Electromagnetismo/Fuerza Eléctrica vs Fuerza Gravitacional.md",
     "Ciencias Físicas/Electromagnetismo/Fuerza Electromagnética.md",
     "Ciencias Físicas/Electromagnetismo/Ley de Gauss (Electromagnetismo).md",
-    "Ciencias Físicas/Electromagnetismo/Ley de Ohm.md",
-    "Ciencias Físicas/Electromagnetismo/Ley de Gauss para el Magnetismo.md",
-    "Ciencias Físicas/Electromagnetismo/Ley de Faraday-Lenz.md",
-    "Ciencias Físicas/Electromagnetismo/Ley de Coulomb.md",
-    "Ciencias Físicas/Electromagnetismo/Ley de Ampere-Maxwell.md"
+    "Ciencias Físicas/Electromagnetismo/Ley de Ohm.md"
   ]
 }
