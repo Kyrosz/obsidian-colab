@@ -1,3 +1,4 @@
+
 Las fuerzas fundamentales son las clasificaciones principales con las cuales se describe la **naturaleza de cualquier fuerza en el [[Universo]]**.
 
 Existen **cuatro** fuerzas fundamentales de la Física:

@@ -1,3 +1,4 @@
+
 Para la siguiente definicion tenemos que considerar un [[Espacio Métrico]] y un [[Subconjunto no vacío]]  $B \subset E$ 
 
 Definicion:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciencias Físicas/Vibraciones Mecánicas/Respuesta a una Fuerza Arbitraria.md",
+                "file": "Matemática/Cálculo/Coordenadas Cartesianas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciencias Físicas/Vibraciones Mecánicas/Respuesta a una Fuerza Arbitraria.md",
+                "file": "Matemática/Cálculo/Coordenadas Cartesianas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciencias Físicas/Vibraciones Mecánicas/Respuesta a una Fuerza Arbitraria.md",
+                "file": "Matemática/Cálculo/Coordenadas Cartesianas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciencias Físicas/Vibraciones Mecánicas/Respuesta a una Fuerza Arbitraria.md"
+                "file": "Matemática/Cálculo/Coordenadas Cartesianas.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "e26af1ed7da48e96",
   "lastOpenFiles": [
-    "Ciencias Físicas/Vibraciones Mecánicas/Respuesta a una Fuerza Arbitraria.md",
-    "Ciencias Físicas/Vibraciones Mecánicas/Respuesta a un Impulso.md",
-    "Ciencias Físicas/Vibraciones Mecánicas/Resorte.md",
-    "Ciencias Físicas/Vibraciones Mecánicas/Razón de Amortiguamiento.md",
-    "Ciencias Físicas/Vibraciones Mecánicas/Periodo.md",
-    "Ciencias Físicas/Vibraciones Mecánicas/Movimiento Armónico Simple.md",
-    "Ciencias Físicas/Vibraciones Mecánicas/Movimiento Armónico Amortiguado.md",
-    "Ciencias Físicas/Vibraciones Mecánicas/Impulso.md",
-    "Ciencias Físicas/Vibraciones Mecánicas/Fuerza de Amortiguamiento.md",
-    "Ciencias Físicas/Vibraciones Mecánicas/Frecuencia Natural.md"
+    "Matemática/Cálculo/Análisis Integral.md",
+    "Matemática/Cálculo/Análisis Diferencial.md",
+    "Matemática/Análisis/Pseudo-métrica.md",
+    "Matemática/Análisis/Norma.md",
+    "Matemática/Análisis/Métrica (Distancia).md",
+    "Matemática/Análisis/Isometría.md",
+    "Matemática/Análisis/Inmersión Isométrica.md",
+    "Matemática/Análisis/Espacio Vectorial Real Normado.md",
+    "Matemática/Análisis/Espacio Pseudo-métrico.md",
+    "Matemática/Análisis/Espacio Métrico.md"
   ]
 }
