@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Cálculo/Derivada Material.md",
+                "file": "Matemática/Cálculo/Laplaciano.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Cálculo/Derivada Material.md",
+                "file": "Matemática/Cálculo/Laplaciano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática/Cálculo/Derivada Material.md",
+                "file": "Matemática/Cálculo/Laplaciano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática/Cálculo/Derivada Material.md"
+                "file": "Matemática/Cálculo/Laplaciano.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "e26af1ed7da48e96",
   "lastOpenFiles": [
-    "Matemática/Cálculo/Derivada.md",
-    "Matemática/Cálculo/Decaimiento Exponencial.md",
-    "Matemática/Cálculo/Teorema del Sandwich.md",
-    "Matemática/Cálculo/Tabla de Integrales.md",
-    "Matemática/Cálculo/Tabla de Derivadas.md",
-    "Matemática/Cálculo/Sistema de Referencia No Inercial.md",
-    "Matemática/Cálculo/Serie de Taylor.md",
-    "Matemática/Cálculo/Rotor.md",
-    "Matemática/Cálculo/Regla de la Cadena.md",
-    "Matemática/Cálculo/Producto Interno.md"
+    "Matemática/Cálculo/Integral de Convolución.md",
+    "Matemática/Cálculo/Integral.md",
+    "Matemática/Cálculo/Gradiente.md",
+    "Matemática/Cálculo/Función Exponencial.md",
+    "Matemática/Cálculo/Ecuación Diferencial Parcial (EDP).md",
+    "Matemática/Cálculo/Ecuación Diferencial Ordinaria (EDO).md",
+    "Matemática/Cálculo/Ecuación Diferencial.md",
+    "Matemática/Cálculo/Divergencia.md",
+    "Matemática/Cálculo/Derivada Material.md",
+    "Matemática/Cálculo/Derivada.md"
   ]
 }
