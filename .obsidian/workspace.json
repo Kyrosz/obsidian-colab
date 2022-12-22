@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Cálculo/Ecuaciones Diferenciales Ordinarias (EDOs).md",
+                "file": "Ecuación Diferencial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Cálculo/Ecuaciones Diferenciales Ordinarias (EDOs).md",
+                "file": "Ecuación Diferencial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática/Cálculo/Ecuaciones Diferenciales Ordinarias (EDOs).md",
+                "file": "Ecuación Diferencial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática/Cálculo/Ecuaciones Diferenciales Ordinarias (EDOs).md"
+                "file": "Ecuación Diferencial.md"
               }
             }
           }
@@ -145,8 +145,9 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e38e51160538a62c",
+  "active": "e26af1ed7da48e96",
   "lastOpenFiles": [
+    "Matemática/Cálculo/Ecuación Diferencial Ordinaria (EDO).md",
     "Matemática/Cálculo/Divergencia.md",
     "Matemática/Cálculo/Derivada Material.md",
     "Matemática/Cálculo/Derivada.md",
@@ -155,7 +156,6 @@
     "Matemática/Cálculo/Coordenadas Cilíndricas.md",
     "Matemática/Cálculo/Coordenadas Cartesianas.md",
     "Matemática/Cálculo/Análisis Integral.md",
-    "Matemática/Cálculo/Análisis Diferencial.md",
-    "Matemática/Análisis/Pseudo-métrica.md"
+    "Matemática/Cálculo/Análisis Diferencial.md"
   ]
 }
