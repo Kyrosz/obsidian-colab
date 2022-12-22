@@ -7,9 +7,14 @@ $$
 
 ### Ejemplos
 
-Sea la derivada de $y(x)$ nula. La ecuación diferencial 
+Al expresar la derivada de $y(x)$ nula, la ecuación diferencial queda:
 
 $$
 	\frac{d y}{d x} = 0
 $$
 
+Integrando respecto a $x$:
+
+$$
+	\int_{}^{} {\frac{dy}{dx}} dx = \int_{}^{} {(0)} dx
+$$
