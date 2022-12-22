@@ -1,8 +1,9 @@
 
-La ley de Ohm establece que la corriente eléctrica $I$ a través de un conductor es igual al voltaje $V$ aplicado sobre él dividido por la resistencia (R) del conductor:
+La ley de Ohm establece que la corriente eléctrica $I$ a través de un conductor es igual al voltaje $V$ aplicado sobre él, dividido por la resistencia $R$ del conductor. Una forma sencilla de acordarse de esta fórmula es pensar en la palabra "Virtual":
 
-I = V/R
-
-Donde:
-
-I: corriente eléctrica, medida en amperios (A) V: voltaje, medida en voltios (V) R: resistencia, medida en ohmios (Ω)
+$$
+	V=IR
+$$
+- $V$ : [[Voltaje]].
+- $I$ : [[Corriente Eléctrica]].
+- $R$ : [[Resistencia Eléctrica]].
