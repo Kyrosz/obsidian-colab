@@ -4,9 +4,10 @@ La derivada material es una definición utilizada para referirse al caso en que 
 $$
 	\frac{D(N)}{Dt} = \frac{d (N)}{d t} = \frac{\partial (N)}{\partial t} + \left( \vec{v} \cdot \nabla \right) \cdot (N)
 $$
-Donde $N = N(x_1,x_2,x_3,t)$ es una función continua y diferenciable en todo el espacio donde vive el medio.
+Donde $N = N(x_1,x_2,x_3,t)$ es una función continua y diferenciable en todo el espacio donde vive el medio fluido.
 
 **Desarrollo en [[Coordenadas Cartesianas]]:**
+
 Aplicando derivación temporal a $N(x,y,z,t)$ y descomponiendo por [[Regla de la Cadena]]: 
 
 $$ \frac{d N(x,y,z,t)}{d t} = \left( \frac{\partial N}{\partial x} \cdot \frac{d x}{d t} \right) + \left( \frac{\partial N}{\partial y} \cdot \frac{d y}{d t} \right) + \left( \frac{\partial N}{\partial z} \cdot \frac{d z}{d t} \right) + \frac{\partial N}{\partial t} $$
