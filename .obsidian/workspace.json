@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ley de Ohm.md",
+                "file": "Ciencias Físicas/Electromagnetismo/Corriente Eléctrica.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ley de Ohm.md",
+                "file": "Ciencias Físicas/Electromagnetismo/Corriente Eléctrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ley de Ohm.md",
+                "file": "Ciencias Físicas/Electromagnetismo/Corriente Eléctrica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ley de Ohm.md"
+                "file": "Ciencias Físicas/Electromagnetismo/Corriente Eléctrica.md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "96d9dac56e98673a",
   "lastOpenFiles": [
+    "Ciencias Físicas/Electromagnetismo/Ecuaciones de Maxwell.md",
     "Ciencias Físicas/Electromagnetismo/Corriente Eléctrica.md",
+    "Ciencias Físicas/Electromagnetismo/Ley de Ohm.md",
     "Ciencias Físicas/Electromagnetismo/Campo Eléctrico.md",
     "Matemática/Análisis/Pseudo-métrica.md",
     "Matemática/Análisis/Norma.md",
     "Matemática/Análisis/Métrica (Distancia).md",
     "Matemática/Análisis/Isometría.md",
     "Matemática/Análisis/Inmersión Isométrica.md",
-    "Matemática/Análisis/Espacio Vectorial Real Normado.md",
-    "Matemática/Análisis/Espacio Pseudo-métrico.md",
-    "Matemática/Análisis/Espacio Métrico.md"
+    "Matemática/Análisis/Espacio Vectorial Real Normado.md"
   ]
 }
