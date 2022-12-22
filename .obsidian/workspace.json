@@ -11,8 +11,12 @@
             "id": "e26af1ed7da48e96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ciencias Físicas/Electromagnetismo/Ley de Gauss para el Magnetismo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fuerzas funda",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ciencias Físicas/Electromagnetismo/Ley de Gauss para el Magnetismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ciencias Físicas/Electromagnetismo/Ley de Gauss para el Magnetismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ciencias Físicas/Electromagnetismo/Ley de Gauss para el Magnetismo.md"
+              }
             }
           }
         ]
@@ -137,17 +145,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e38e51160538a62c",
+  "active": "e26af1ed7da48e96",
   "lastOpenFiles": [
-    "Ciencias de los Materiales/Aleación de Metal.md",
-    "Ciencias de los Materiales/Materiales/Silicona.md",
-    "Ciencias de los Materiales/Materiales/Nylon.md",
-    "Ciencias de los Materiales/Materiales/Madera.md",
-    "Ciencias de los Materiales/Materiales/Cobre.md",
-    "Ciencias de los Materiales/Materiales/Aluminio.md",
-    "Ciencias de los Materiales/Materiales/Acero Inoxidable.md",
-    "Ciencias de los Materiales/Materiales/Acero al Carbono.md",
-    "Ciencias de los Materiales/Propiedades/Propiedades de los Materiales.md",
-    "Ciencias de los Materiales/Propiedades/Maleabilidad.md"
+    "Ciencias Físicas/Electromagnetismo/Ley de Gauss (Electromagnetismo).md",
+    "Ciencias Físicas/Electromagnetismo/Ley de Faraday-Lenz.md",
+    "Ciencias Físicas/Electromagnetismo/Ley de Coulomb.md",
+    "Ciencias Físicas/Electromagnetismo/Ley de Ampere-Maxwell.md",
+    "Ciencias Físicas/Electromagnetismo/Fuerza Electromagnética.md",
+    "Ciencias Físicas/Electromagnetismo/Fuerza Eléctrica vs Fuerza Gravitacional.md",
+    "Ciencias Físicas/Electromagnetismo/Flujo del Campo Eléctrico.md",
+    "Ciencias Físicas/Electromagnetismo/Ecuaciones de Maxwell.md",
+    "Ciencias Físicas/Electromagnetismo/Corriente Eléctrica.md",
+    "Ciencias Físicas/Electromagnetismo/Campo Eléctrico.md"
   ]
 }
