@@ -2,8 +2,14 @@
 Este número también se utiliza para definir la [[Función Exponencial]].
 
 $$
-	e = \lim_{t \to \infty } {\left( 1 + \frac{1}{t} \right) ^{t}} = \lim_{t \to 0} {\left( 1+t \right)^{1/t}}
+	e = \lim_{t \to \infty } {\left( 1 + \frac{1}{t} \right) ^{t}} \\
+$$
+$$
+	
 $$
 
-Usan
+Usando un [[Cambio de Variable]] $u=1/t$ :
 
+$$
+	e = \lim_{u \to 0} {(1 + u)}^{1/u}
+$$
