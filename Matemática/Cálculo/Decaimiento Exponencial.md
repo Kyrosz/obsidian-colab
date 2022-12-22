@@ -1,5 +1,5 @@
 
-## Ec. Diferencial
+El decaimiento exponencial es un tipo de [[Ecuación Diferencial Ordinaria (EDO)]].
 
 
 $$
