@@ -1,7 +1,7 @@
 
 Cociente entre la velocidad de difusión del momentum (viscosidad) y la velocidad de difusión del calor (difusividad térmica).
 $$
-	{Pr} = \frac{\text{Velocidad de difusión del momentum}}{Velocidad de difusión del calor} = \frac{\mu /\rho }{k/(\rho c_p)}
+	{Pr} = \frac{\text{Velocidad de difusión del momentum}}{Velocidad de difusin del calor} = \frac{\mu /\rho }{k/(\rho c_p)}
 $$
 
 $$

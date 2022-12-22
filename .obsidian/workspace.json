@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciencias Físicas/Física Nuclear/Velocidad de Escape del Electrón del Hidrógeno.md",
+                "file": "Ciencias Físicas/Grupos Adimensionales/Número de Prandtl.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciencias Físicas/Física Nuclear/Velocidad de Escape del Electrón del Hidrógeno.md",
+                "file": "Ciencias Físicas/Grupos Adimensionales/Número de Prandtl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciencias Físicas/Física Nuclear/Velocidad de Escape del Electrón del Hidrógeno.md",
+                "file": "Ciencias Físicas/Grupos Adimensionales/Número de Prandtl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciencias Físicas/Física Nuclear/Velocidad de Escape del Electrón del Hidrógeno.md"
+                "file": "Ciencias Físicas/Grupos Adimensionales/Número de Prandtl.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "e26af1ed7da48e96",
   "lastOpenFiles": [
+    "Ciencias Físicas/Grupos Adimensionales/Número de Reynolds.md",
+    "Ciencias Físicas/Grupos Adimensionales/Número de Prandtl.md",
+    "Ciencias Físicas/Grupos Adimensionales/Número de Mach.md",
+    "Ciencias Físicas/Grupos Adimensionales/Número de Nusselt.md",
+    "Ciencias Físicas/Grupos Adimensionales/Número de Rayleigh.md",
+    "Ciencias Físicas/Grupos Adimensionales/Número de Grashof.md",
+    "Ciencias Físicas/Física Nuclear/Velocidad de Escape del Electrón del Hidrógeno.md",
     "Ciencias Físicas/Física Moderna/Braket.md",
     "Ciencias Físicas/Física Moderna/Factor de Lorentz.md",
-    "Ciencias Físicas/Física Moderna/Velocidad Relativa a la Luz.md",
-    "Ciencias Físicas/Física Nuclear/Velocidad de Escape del Electrón del Hidrógeno.md",
-    "Ciencias Físicas/Física Nuclear/Fuerza Nuclear Fuerte.md",
-    "Ciencias Físicas/Física Nuclear/Fuerza Nuclear Débil.md",
-    "Ciencias Físicas/Física Moderna/Equivalencia Masa - Energía de Einstein.md",
-    "Ciencias Físicas/Electromagnetismo/Ley de Ohm.md",
-    "Ciencias Físicas/Electromagnetismo/Ley de Gauss para el Magnetismo.md",
-    "Ciencias Físicas/Electromagnetismo/Ley de Gauss (Electromagnetismo).md"
+    "Ciencias Físicas/Física Moderna/Velocidad Relativa a la Luz.md"
   ]
 }
