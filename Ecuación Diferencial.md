@@ -1,8 +1,8 @@
 
-Una ecuación diferencial es una ecuación que relaciona una función y sus derivadas. El caso más simple se puede expresar como una función con una variable independiente igual a su [[Derivada]].
+Una ecuación diferencial es una ecuación que relaciona funciones y sus derivadas. El caso más simple se puede expresar como la [[Derivada]] de una función $y(x)$, que es una función de $x$ e $y$ :
 
 $$
-	f(x) = \frac{dy}{dx}
+	\frac{dy}{dx} = f(x,y)
 $$
 
 
