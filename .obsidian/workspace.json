@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bd877457a11bdcc9",
+        "id": "e0ee9ed08f79a7bf",
         "type": "tabs",
         "children": [
           {
-            "id": "c2328ea4b5248180",
+            "id": "e26af1ed7da48e96",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matemática/Álgebra/Coeficiente Binomial.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "esfuerzo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 265.5
   },
   "right": {
     "id": "05c80e27ff736322",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matemática/Álgebra/Coeficiente Binomial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matemática/Álgebra/Coeficiente Binomial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matemática/Álgebra/Coeficiente Binomial.md"
+              }
             }
           }
         ]
@@ -129,25 +137,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false
     }
   },
-  "active": "c2328ea4b5248180",
+  "active": "e26af1ed7da48e96",
   "lastOpenFiles": [
-    "Matemática/Análisis/Espacio Métrico.md",
-    "Matemática/Análisis/Metrica (Distancia).md",
+    "Matemática/Álgebra/Binomio de Newton.md",
+    "Matemática/Álgebra/Factorial.md",
+    "Matemática/Álgebra/Coeficiente Binomial.md",
+    "Matemática/Análisis/Pseudo-métrica.md",
+    "Matemática/Análisis/Norma.md",
+    "Matemática/Análisis/Métrica (Distancia).md",
     "Matemática/Análisis/Isometría.md",
-    "Matemática/Análisis/Inmersion Isométrica.md",
-    "Matemática/Análisis/Espacio Pseudo-métrico.md",
-    "Matemática/Análisis/Distancia de un punto a un conjunto.md",
-    "Matemática/Cálculo/Sistema de Referencia No Inercial.md",
-    "Matemática/Cálculo/Serie de Taylor.md",
-    "Matemática/Cálculo/Producto Interno.md",
-    "Matemática/Cálculo/Derivada.md"
+    "Matemática/Análisis/Inmersión Isométrica.md",
+    "Matemática/Análisis/Espacio Vectorial Real Normado.md",
+    "Matemática/Análisis/Espacio Pseudo-métrico.md"
   ]
 }

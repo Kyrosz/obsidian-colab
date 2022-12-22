@@ -1,4 +1,4 @@
-Un espacio métrico es un par ordenado $(E,d)$ donde $E$ es un conjunto no vació y $d$ es una [[Metrica (Distancia)]] sobre $E$ 
+Un espacio métrico es un par ordenado $(E,d)$ donde $E$ es un conjunto no vació y $d$ es una [[Métrica (Distancia)]] sobre $E$ 
 
 ## Ejemplos 
 

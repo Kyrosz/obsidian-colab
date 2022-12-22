@@ -1,1 +1,1 @@
-Una isometría es una [[Inmersion Isométrica]] [[Epiyectiva]] 
+Una isometría es una [[Inmersión Isométrica]] [[Epiyectiva]] 
