@@ -2,8 +2,8 @@ Las fuerzas fundamentales son las clasificaciones principales con las cuales se 
 
 Existen **cuatro** fuerzas fundamentales de la Física:
 
-1. [[Ley de Gravitación Universal|Fuerza Gravitacional]].
-2. [[Ley de Gauss (Electromagnetismo)|Fuerza Electromagnética]].
+1. [[Fuerza Gravitacional]].
+2. [[Fuerza Electromagnética]].
 3. [[Fuerza Nuclear Débil]].
 4. [[Fuerza Nuclear Fuerte]].
 
