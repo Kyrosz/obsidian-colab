@@ -15,12 +15,5 @@
       "key": "A"
     }
   ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Z"
-    }
-  ]
+  "obsidian-git:push2": []
 }
