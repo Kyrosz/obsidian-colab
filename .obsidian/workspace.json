@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuación Diferencial.md",
+                "file": "Matemática/Cálculo/Gradiente.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuación Diferencial.md",
+                "file": "Matemática/Cálculo/Gradiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuación Diferencial.md",
+                "file": "Matemática/Cálculo/Gradiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuación Diferencial.md"
+                "file": "Matemática/Cálculo/Gradiente.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "e26af1ed7da48e96",
   "lastOpenFiles": [
-    "Matemática/Cálculo/Ecuación Diferencial Ordinaria (EDO).md",
+    "Matemática/Cálculo/Ecuación Diferencial Parcial (EDP).md",
+    "Matemática/Cálculo/Función Exponencial.md",
+    "Matemática/Cálculo/Espacio Vectorial.md",
     "Matemática/Cálculo/Divergencia.md",
+    "Matemática/Cálculo/Ecuación Diferencial.md",
+    "Matemática/Cálculo/Ecuación Diferencial Ordinaria (EDO).md",
     "Matemática/Cálculo/Derivada Material.md",
     "Matemática/Cálculo/Derivada.md",
     "Matemática/Cálculo/Decaimiento Exponencial.md",
-    "Matemática/Cálculo/Cubo Diferencial.md",
-    "Matemática/Cálculo/Coordenadas Cilíndricas.md",
-    "Matemática/Cálculo/Coordenadas Cartesianas.md",
-    "Matemática/Cálculo/Análisis Integral.md",
-    "Matemática/Cálculo/Análisis Diferencial.md"
+    "Matemática/Cálculo/Cubo Diferencial.md"
   ]
 }
