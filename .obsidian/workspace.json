@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciencias Físicas/Electromagnetismo/Corriente Eléctrica.md",
+                "file": "Ciencias Físicas/Electromagnetismo/Ecuaciones de Maxwell.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "esfuerzo",
+                "query": "electromagnetismo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciencias Físicas/Electromagnetismo/Corriente Eléctrica.md",
+                "file": "Ciencias Físicas/Electromagnetismo/Ecuaciones de Maxwell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciencias Físicas/Electromagnetismo/Corriente Eléctrica.md",
+                "file": "Ciencias Físicas/Electromagnetismo/Ecuaciones de Maxwell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciencias Físicas/Electromagnetismo/Corriente Eléctrica.md"
+                "file": "Ciencias Físicas/Electromagnetismo/Ecuaciones de Maxwell.md"
               }
             }
           }
@@ -160,6 +161,8 @@
   },
   "active": "96d9dac56e98673a",
   "lastOpenFiles": [
+    "Física/Constantes Físicas.md",
+    "Ciencias Físicas/Electromagnetismo/Electromagnetismo.md",
     "Ciencias Físicas/Electromagnetismo/Ecuaciones de Maxwell.md",
     "Ciencias Físicas/Electromagnetismo/Corriente Eléctrica.md",
     "Ciencias Físicas/Electromagnetismo/Ley de Ohm.md",
@@ -167,8 +170,6 @@
     "Matemática/Análisis/Pseudo-métrica.md",
     "Matemática/Análisis/Norma.md",
     "Matemática/Análisis/Métrica (Distancia).md",
-    "Matemática/Análisis/Isometría.md",
-    "Matemática/Análisis/Inmersión Isométrica.md",
-    "Matemática/Análisis/Espacio Vectorial Real Normado.md"
+    "Matemática/Análisis/Isometría.md"
   ]
 }
