@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Python/Datos en Python.md",
+                "file": "Programación/Python/Valores en Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación/Python/Datos en Python.md",
+                "file": "Programación/Python/Valores en Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación/Python/Datos en Python.md",
+                "file": "Programación/Python/Valores en Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación/Python/Datos en Python.md"
+                "file": "Programación/Python/Valores en Python.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "e26af1ed7da48e96",
   "lastOpenFiles": [
+    "Programación/Python/Librerías de Python.md",
+    "Programación/Python/Introducción a Python.md",
+    "Programación/Python/Funciones en Python.md",
+    "Programación/Python/Errores en Python.md",
+    "Programación/Python/Datos en Python.md",
     "Matemática/Probabilidades y Estadísticas/Varianza.md",
     "Matemática/Probabilidades y Estadísticas/Probabilidad.md",
     "Matemática/Probabilidades y Estadísticas/Esperanza.md",
     "Matemática/Probabilidades y Estadísticas/Distribución Normal.md",
-    "Matemática/Probabilidades y Estadísticas/Distribución de Probabilidad.md",
-    "Matemática/Probabilidades y Estadísticas/Distribución Binomial.md",
-    "Matemática/Probabilidades y Estadísticas/Desviación Estándar.md",
-    "Matemática/Probabilidades y Estadísticas/Densidad de Probabilidad.md",
-    "Matemática/Geometría/Relaciones Trigonométricas.md",
-    "Matemática/Cálculo/Teorema del Sandwich.md"
+    "Matemática/Probabilidades y Estadísticas/Distribución de Probabilidad.md"
   ]
 }
