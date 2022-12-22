@@ -1,20 +1,17 @@
 
 El decaimiento exponencial es un tipo de [[Ecuación Diferencial Ordinaria (EDO)]].
 
-
 $$
 	 \frac{d N}{d t} = -\lambda N 
 $$
 
-## Solución
-
+Su solución es:
 
 $$
 	 N(t) = N_0 e^{-\lambda t} 
 $$
 
-## Promedio de Vida | Vida Media
-
+Se define el promedio de vida o [[Vida Media]] como:
 
 $$
 	 \tau =\frac{1}{\lambda } 

@@ -10,7 +10,9 @@ Donde $N = N(x_1,x_2,x_3,t)$ es una función continua y diferenciable en todo el
 
 Aplicando derivación temporal a $N(x,y,z,t)$ y descomponiendo por [[Regla de la Cadena]]: 
 
-$$ \frac{d N(x,y,z,t)}{d t} = \left( \frac{\partial N}{\partial x} \cdot \frac{d x}{d t} \right) + \left( \frac{\partial N}{\partial y} \cdot \frac{d y}{d t} \right) + \left( \frac{\partial N}{\partial z} \cdot \frac{d z}{d t} \right) + \frac{\partial N}{\partial t} $$
+$$
+	\frac{d N(x,y,z,t)}{d t} = \left( \frac{\partial N}{\partial x} \cdot \frac{d x}{d t} \right) + \left( \frac{\partial N}{\partial y} \cdot \frac{d y}{d t} \right) + \left( \frac{\partial N}{\partial z} \cdot \frac{d z}{d t} \right) + \frac{\partial N}{\partial t}
+$$
 Notando que las derivadas de las coordenadas corresponden a las velocidades en dichas direcciones, es decir, $dx_i/dt = v_i$ :
 $$  \frac{d N}{d t} = \frac{\partial N}{\partial x} \cdot u + \frac{\partial N}{\partial y} \cdot v + \frac{\partial N}{\partial z} \cdot w + \frac{\partial N}{\partial t}  $$
 Se busca un operador que pueda evaluarse en la función $N$. Para ello se despeja $N$ del resto de operaciones. Cambiando el orden de los productos y despejando $N$:

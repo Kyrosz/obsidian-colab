@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Cálculo/Decaimiento Exponencial.md",
+                "file": "Matemática/Cálculo/Derivada Material.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Cálculo/Decaimiento Exponencial.md",
+                "file": "Matemática/Cálculo/Derivada Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática/Cálculo/Decaimiento Exponencial.md",
+                "file": "Matemática/Cálculo/Derivada Material.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática/Cálculo/Decaimiento Exponencial.md"
+                "file": "Matemática/Cálculo/Derivada Material.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "e26af1ed7da48e96",
   "lastOpenFiles": [
+    "Matemática/Cálculo/Derivada.md",
+    "Matemática/Cálculo/Decaimiento Exponencial.md",
     "Matemática/Cálculo/Teorema del Sandwich.md",
     "Matemática/Cálculo/Tabla de Integrales.md",
     "Matemática/Cálculo/Tabla de Derivadas.md",
@@ -154,8 +156,6 @@
     "Matemática/Cálculo/Serie de Taylor.md",
     "Matemática/Cálculo/Rotor.md",
     "Matemática/Cálculo/Regla de la Cadena.md",
-    "Matemática/Cálculo/Producto Interno.md",
-    "Matemática/Cálculo/Operador Nabla.md",
-    "Matemática/Cálculo/Número e.md"
+    "Matemática/Cálculo/Producto Interno.md"
   ]
 }
