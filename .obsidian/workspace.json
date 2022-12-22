@@ -11,12 +11,8 @@
             "id": "e26af1ed7da48e96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciencias Físicas/Física Moderna/Braket.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciencias Físicas/Física Moderna/Braket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciencias Físicas/Física Moderna/Braket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ciencias Físicas/Física Moderna/Braket.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,15 +139,15 @@
   },
   "active": "e38e51160538a62c",
   "lastOpenFiles": [
-    "Ciencias Físicas/Física Moderna/Equivalencia Masa - Energía de Einstein.md",
-    "Ciencias Físicas/Física Moderna/Factor de Lorentz.md",
-    "Ciencias Físicas/Física Moderna/Velocidad Relativa a la Luz.md",
-    "Ciencias Físicas/Física Moderna/Braket.md",
-    "Subconjunto no vacío.md",
-    "Matemática/Teoría de la Medida.md",
-    "Ciencias Físicas/Mecánica Clásica/Fuerza.md",
-    "Ciencias Físicas/Mecánica Clásica/Fuerza Gravitacional.md",
-    "Física/Fuerzas Fundamentales.md",
-    "Ciencias Físicas/Electromagnetismo/Fuerza Eléctrica vs Fuerza Gravitacional.md"
+    "Ciencias de los Materiales/Aleación de Metal.md",
+    "Ciencias de los Materiales/Materiales/Silicona.md",
+    "Ciencias de los Materiales/Materiales/Nylon.md",
+    "Ciencias de los Materiales/Materiales/Madera.md",
+    "Ciencias de los Materiales/Materiales/Cobre.md",
+    "Ciencias de los Materiales/Materiales/Aluminio.md",
+    "Ciencias de los Materiales/Materiales/Acero Inoxidable.md",
+    "Ciencias de los Materiales/Materiales/Acero al Carbono.md",
+    "Ciencias de los Materiales/Propiedades/Propiedades de los Materiales.md",
+    "Ciencias de los Materiales/Propiedades/Maleabilidad.md"
   ]
 }
