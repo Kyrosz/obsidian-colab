@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciencias Físicas/Grupos Adimensionales/Número de Prandtl.md",
+                "file": "Ciencias Físicas/Mecánica de Sólidos/Cuerpo Rígido.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciencias Físicas/Grupos Adimensionales/Número de Prandtl.md",
+                "file": "Ciencias Físicas/Mecánica de Sólidos/Cuerpo Rígido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciencias Físicas/Grupos Adimensionales/Número de Prandtl.md",
+                "file": "Ciencias Físicas/Mecánica de Sólidos/Cuerpo Rígido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciencias Físicas/Grupos Adimensionales/Número de Prandtl.md"
+                "file": "Ciencias Físicas/Mecánica de Sólidos/Cuerpo Rígido.md"
               }
             }
           }
@@ -145,17 +145,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e26af1ed7da48e96",
+  "active": "e38e51160538a62c",
   "lastOpenFiles": [
-    "Ciencias Físicas/Grupos Adimensionales/Número de Reynolds.md",
-    "Ciencias Físicas/Grupos Adimensionales/Número de Prandtl.md",
-    "Ciencias Físicas/Grupos Adimensionales/Número de Mach.md",
-    "Ciencias Físicas/Grupos Adimensionales/Número de Nusselt.md",
-    "Ciencias Físicas/Grupos Adimensionales/Número de Rayleigh.md",
-    "Ciencias Físicas/Grupos Adimensionales/Número de Grashof.md",
-    "Ciencias Físicas/Física Nuclear/Velocidad de Escape del Electrón del Hidrógeno.md",
-    "Ciencias Físicas/Física Moderna/Braket.md",
-    "Ciencias Físicas/Física Moderna/Factor de Lorentz.md",
-    "Ciencias Físicas/Física Moderna/Velocidad Relativa a la Luz.md"
+    "Ciencias Físicas/Mecánica de Sólidos/Coeficiente de Rigidez.md",
+    "Ciencias Físicas/Mecánica de Sólidos/Coeficiente de Poisson.md",
+    "Ciencias Físicas/Mecánica de Fluidos/Teorema de Transporte de Reynolds.md",
+    "Ciencias Físicas/Mecánica de Fluidos/Principio de Bernoulli.md",
+    "Ciencias Físicas/Mecánica de Fluidos/Tensor de Esfuerzos Viscosos.md",
+    "Ciencias Físicas/Mecánica de Fluidos/Sentido de Aplicación de la Presión Hidrostática.md",
+    "Ciencias Físicas/Mecánica de Fluidos/Presión Hidrostática.md",
+    "Ciencias Físicas/Mecánica de Fluidos/Fuerza de Arrastre y Sustentación.md",
+    "Ciencias Físicas/Mecánica de Fluidos/Flujo Másico.md",
+    "Ciencias Físicas/Mecánica de Fluidos/Fluido Newtoniano.md"
   ]
 }
