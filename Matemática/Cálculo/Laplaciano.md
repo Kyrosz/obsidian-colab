@@ -13,19 +13,19 @@ $$
 	\Delta \vec{f}= \nabla^2 \vec{f} = \sum_{i}^{} {\frac{\partial^2 f_i}{\partial q_i^2}}
 $$
 
-### [[Coordenadas Cartesianas]]
+En [[Coordenadas Cartesianas]]:
 
 $$
 	\Delta = \text{div}(\nabla) = \nabla^2 = \frac{\partial^2 }{\partial x^2} + \frac{\partial^2 }{\partial y^2} + \frac{\partial^2 }{\partial z^2}
 $$
 
-### [[Coordenadas Cilíndricas]]
+En [[Coordenadas Cilíndricas]]:
 
 $$
 	\Delta = \text{div}(\nabla) = \nabla^2 =
 $$
 
-### [[Coordenadas Esféricas]]
+En [[Coordenadas Esféricas]]:
 
 $$
 	asd
