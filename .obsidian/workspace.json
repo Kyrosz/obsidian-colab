@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "bd877457a11bdcc9",
+        "id": "29c799da448c776a",
         "type": "tabs",
         "children": [
           {
-            "id": "c2328ea4b5248180",
+            "id": "8acb43a34647829e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -60,8 +60,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c2328ea4b5248180",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
