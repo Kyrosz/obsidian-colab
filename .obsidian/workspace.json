@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 780.8000000000001
   },
   "right": {
     "id": "05c80e27ff736322",
@@ -148,6 +148,7 @@
   },
   "active": "c2328ea4b5248180",
   "lastOpenFiles": [
+    "Matemática/Cálculo/Límite.md",
     "Matemática/Cálculo/Operador Nabla.md",
     "Matemática/Cálculo/Rotor.md",
     "Matemática/Análisis/Espacio Métrico.md",
@@ -156,7 +157,6 @@
     "Matemática/Análisis/Inmersion Isométrica.md",
     "Matemática/Análisis/Espacio Pseudo-métrico.md",
     "Matemática/Análisis/Distancia de un punto a un conjunto.md",
-    "Matemática/Cálculo/Sistema de Referencia No Inercial.md",
-    "Matemática/Cálculo/Serie de Taylor.md"
+    "Matemática/Cálculo/Sistema de Referencia No Inercial.md"
   ]
 }
