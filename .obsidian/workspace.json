@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50919296e18b3a0c",
+        "id": "afbb5ab0f7465420",
         "type": "tabs",
         "children": [
           {
-            "id": "008d03e07dd676c4",
+            "id": "b7b290b7bbcd5e7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subconjunto no vacío.md",
+                "file": "Ciencias Físicas/Electromagnetismo/Campo Eléctrico.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subconjunto no vacío.md",
+                "file": "Ciencias Físicas/Electromagnetismo/Campo Eléctrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subconjunto no vacío.md",
+                "file": "Ciencias Físicas/Electromagnetismo/Campo Eléctrico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subconjunto no vacío.md"
+                "file": "Ciencias Físicas/Electromagnetismo/Campo Eléctrico.md"
               }
             }
           }
@@ -145,17 +145,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "008d03e07dd676c4",
+  "active": "b7b290b7bbcd5e7f",
   "lastOpenFiles": [
+    "Ciencias Físicas/Electromagnetismo/Campo Eléctrico.md",
+    "Ingeniería/Elementos de Máquinas/Diagrama S-N.md",
+    "Subconjunto no vacío.md",
     "Matemática/Cálculo/Operador Nabla.md",
     "Matemática/Cálculo/Rotor.md",
     "Matemática/Análisis/Espacio Métrico.md",
     "Matemática/Análisis/Metrica (Distancia).md",
     "Matemática/Análisis/Isometría.md",
     "Matemática/Análisis/Inmersion Isométrica.md",
-    "Matemática/Análisis/Espacio Pseudo-métrico.md",
-    "Matemática/Análisis/Distancia de un punto a un conjunto.md",
-    "Matemática/Cálculo/Sistema de Referencia No Inercial.md",
-    "Matemática/Cálculo/Serie de Taylor.md"
+    "Matemática/Análisis/Espacio Pseudo-métrico.md"
   ]
 }
