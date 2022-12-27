@@ -2,6 +2,8 @@
 
 
 
+
+
 ```functionplot
 ---
 title: Función Exponencial
